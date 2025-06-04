@@ -1,16 +1,15 @@
 ## Hi there 👋
 
+#### A Software Engineer
+
+Software Engineer at [ChimpPACS](https://www.chimppacs.com);<br>
+
 <!--
-**JVictor-Silva93/JVictor-Silva93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.cs`, `nvim`, `ubuntu`
+- 🌍 I'm mostly active within the **Community**
+- 🎨 Designer + Developer — I’ve contributed to projects like 
+- 💡 Passionate about 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📬 Want to collaborate or connect?
+Find me on [LinkedIn](https://www.linkedin.com/in/USERNAME)
 -->
